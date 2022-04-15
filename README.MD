@@ -20,3 +20,4 @@
    - [Bias correction in Adam](https://www.youtube.com/watch?v=-0ZMU-gnm2g)
    - Новомодный optimizer [AdamW](https://arxiv.org/pdf/1711.05101.pdf)
    - [Cyclical Learning Rate](https://medium.com/swlh/cyclical-learning-rates-the-ultimate-guide-for-setting-learning-rates-for-neural-networks-3104e906f0ae)
+03. Алгоритм обратного распространения ошибки
