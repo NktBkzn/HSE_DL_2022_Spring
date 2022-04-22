@@ -21,3 +21,8 @@
    - Новомодный optimizer [AdamW](https://arxiv.org/pdf/1711.05101.pdf)
    - [Cyclical Learning Rate](https://medium.com/swlh/cyclical-learning-rates-the-ultimate-guide-for-setting-learning-rates-for-neural-networks-3104e906f0ae)
 03. Алгоритм обратного распространения ошибки
+04. Инструменты в Python для обучения нейронных сетей
+   - [Dataloader/Dateset в PyTorch](https://discuss.pytorch.org/t/making-iterable-objects-using-torch-utils-data-dataloader/16681/2)
+   - [Weight initialization](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/weight_initialization_activation_functions/)
+   - [Python generators](https://realpython.com/introduction-to-python-generators/)
+   - [Iterators vs Generators](https://stackoverflow.com/questions/2776829/difference-between-pythons-generators-and-iterators)
