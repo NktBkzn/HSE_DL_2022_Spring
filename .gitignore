@@ -2,3 +2,7 @@
 .idea
 .ipynb_checkpoints
 .log
+
+# ignore heavy folders
+*/data
+*/models
