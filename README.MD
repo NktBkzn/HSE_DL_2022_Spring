@@ -34,3 +34,8 @@
    - [MLE explained](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
    - [Супер NLP guide от Lena Voita](https://lena-voita.github.io/nlp_course.html)
    - [Word2Vec tutorial с математикой и кодом](https://github.com/Yorko/mlcourse.ai/blob/main/jupyter_russian/tutorials/word2vec_demonzheg.ipynb)
+07. Рекуррентные нейросети: RNN, LSTM, GRU
+   - Stanford CS224N [all lectures](http://web.stanford.edu/class/cs224n/slides/). [Slides on RNN](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture07-fancy-rnn.pdf)
+   - [NLTK book](https://www.nltk.org/book/)
+   - [Variants of dropout](https://towardsdatascience.com/12-main-dropout-methods-mathematical-and-visual-explanation-58cdc2112293). Pay attention to RNN part
+   - [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
