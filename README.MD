@@ -11,7 +11,6 @@
 | 2      | HW02_gradient.ipynb                    | Реализовать градиентный спуск            | 29.04.22 |
 | 3      | HW03_Weather_forecast_RNN.ipynb        | Обучить RNN                              | 05.06.22 |
 
-[Таблица](https://docs.google.com/spreadsheets/d/1jjvWV7kHw88akCuMFbbAcNsnrUdGH530hUTAhhm182w/edit#gid=0) с результатами сдачи
 
 ### Программа курса + ссылки на хорошие материалы по теме
 #### Полносвязные сети
