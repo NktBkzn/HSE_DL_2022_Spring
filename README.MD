@@ -40,3 +40,6 @@
    - [NLTK book](https://www.nltk.org/book/)
    - [Variants of dropout](https://towardsdatascience.com/12-main-dropout-methods-mathematical-and-visual-explanation-58cdc2112293). Pay attention to RNN part
    - [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
+08. Seq2seq, Attention, ELMO
+   - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
+   - [spaCy vs NLTK vs gensim](https://www.kaggle.com/faressayah/nlp-with-spacy-nltk-gensim)
