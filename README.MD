@@ -44,3 +44,8 @@
 08. Seq2seq, Attention, ELMO
    - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
    - [spaCy vs NLTK vs gensim](https://www.kaggle.com/faressayah/nlp-with-spacy-nltk-gensim)
+09. Self-Attention. Transformer. BERT.
+   - [Transformers explained](https://jalammar.github.io/illustrated-transformer/)
+   - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
+   - [Why BERT is called bidirectional?](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
+   - [Harvard transformer implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
