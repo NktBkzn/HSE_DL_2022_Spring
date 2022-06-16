@@ -49,6 +49,7 @@
    - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
    - [Why BERT is called bidirectional?](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
    - [Harvard transformer implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+#### CV
 10. Свёрточные нейронные сети
    - [Convolution in CNN explained](https://www.youtube.com/watch?v=KTB_OFoAQcc)
    - [Dilated convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
