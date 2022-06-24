@@ -14,7 +14,7 @@
 
 
 ### Программа курса + ссылки на хорошие материалы по теме
-#### Полносвязные сети
+#### Feedforward NNs
 01. Введение в нейросети
 02. Адаптивные варианты градиентного спуска
    - [Почему momentum работает](https://distill.pub/2017/momentum/)
@@ -53,3 +53,6 @@
 10. Свёрточные нейронные сети
    - [Convolution in CNN explained](https://www.youtube.com/watch?v=KTB_OFoAQcc)
    - [Dilated convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
+11. Transformers practice
+   - [Описание различных tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
+   - [Эффективное использование GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
