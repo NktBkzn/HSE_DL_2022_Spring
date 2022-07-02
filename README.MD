@@ -56,3 +56,6 @@
 11. Transformers practice
    - [Описание различных tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
    - [Эффективное использование GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
+12. Transfer learning
+   - [ResNet](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+   - [1x1 convolution](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
