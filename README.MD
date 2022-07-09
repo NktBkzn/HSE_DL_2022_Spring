@@ -56,3 +56,10 @@
 11. Transformers practice
    - [Описание различных tokenizers](https://huggingface.co/docs/transformers/tokenizer_summary)
    - [Эффективное использование GPU](https://huggingface.co/docs/transformers/perf_train_gpu_one)
+12. Transfer learning
+   - [ResNet](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+   - [1x1 convolution](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
+13. Интерпретация свёрточных нейронных сетей. Перенос стиля
+   - [Что выучивает сеть?](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
+   - [Перенос стиля](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
+   - [Unsampling: Unpooling and Transpose Convolution](https://medium.com/jun-devpblog/dl-12-unsampling-unpooling-and-transpose-convolution-831dc53687ce)
