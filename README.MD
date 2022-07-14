@@ -11,7 +11,7 @@
 | 2      | HW02_gradient.ipynb                    | Реализовать градиентный спуск            | 29.04.22 |
 | 3      | HW03_Weather_forecast_RNN.ipynb        | Обучить RNN                              | 05.06.22 |
 | 4      | HW04_Attention_basics.ipynb            | Реализовать вариации Attention           | 14.06.22 |
-
+| 5      | HW05_Autorncoder_manifold (в семинарах)| Реализовать Conv Autoencoder             | 29.07.22 |
 
 ### Программа курса + ссылки на хорошие материалы по теме
 #### Feedforward NNs
