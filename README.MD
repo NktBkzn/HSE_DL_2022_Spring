@@ -69,3 +69,7 @@
    - [Что такое manifold. Интуиция, стоящая за этим понятием](https://bjlkeng.github.io/posts/manifolds/)
    - [Manifold learning и скрытые переменные](https://habr.com/ru/post/331500/)
    - [Manifold learning on MNIST -> 2D-representation learned by an autoencoder](https://www.kaggle.com/apapiu/manifold-learning-and-autoencoders/notebook)
+15. Генеративно-состязательные сети
+   - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
+   - [Deconvolution issue. Checkerboard](https://distill.pub/2016/deconv-checkerboard/)
+   - [VAE ultimate guide & intuition](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
