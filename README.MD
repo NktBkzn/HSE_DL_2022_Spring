@@ -73,3 +73,7 @@
    - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
    - [Deconvolution issue. Checkerboard](https://distill.pub/2016/deconv-checkerboard/)
    - [VAE ultimate guide & intuition](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+16. Свёрточные сети для текстов
+   - [Лекция от МФТИ](https://www.youtube.com/watch?v=egvX1wGCKSg&list=PL4_hYwCyhAvY7k32D65q3xJVo8X8dc3Ye&index=3)
+   - [Text Classification using CNN, RNN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
+   - [CNN for Sentence Classification, Kim paper](https://arxiv.org/pdf/1408.5882.pdf)
