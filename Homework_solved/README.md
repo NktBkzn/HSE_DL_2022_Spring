@@ -8,4 +8,4 @@
 автоэнкодер
 - 6 задание 
 (https://github.com/JosephFrancisTribbiani/HSE_Data_science_course/blob/main/Deep_Learning/Home_works/10_GANs/HW_Conditional_GAN.ipynb) 
-Conditional GAN. Вот, что должно получиться
+Conditional GAN
